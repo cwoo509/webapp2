@@ -1,5 +1,5 @@
 package com.mycompany.webapp;
 
 public class TEST {
- //TEST °ú¿¬ ÀßµÉ±î¿ä?
+ //TEST ê³¼ì—°?
 }
